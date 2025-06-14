@@ -42,7 +42,7 @@ def text_to_morse(text):
     return ' '.join(morse_code)
 
 # Exempel på användning
-text = "Det här är ett test med morsekod 1234567890 ÅÄÖ"
+text = "i_dont_remember_pushing_this"
 morse = text_to_morse(text)
 print(f"flag{{{morse}}}")
 
